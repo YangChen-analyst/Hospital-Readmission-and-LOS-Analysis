@@ -7,9 +7,9 @@ This project analyzes hospital readmissions using the Diabetes 130-US Hospitals 
 
 ## Dataset
 
-Source: Kaggle – [Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes?utm_source=chatgpt.com)
-Size: 100k+ hospital encounters
-Key features: demographics, diagnoses (ICD9 codes), LOS, medications, readmission status
+- Source: Kaggle – [Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes?utm_source=chatgpt.com)
+- Size: 100k+ hospital encounters
+- Key features: demographics, diagnoses (ICD9 codes), LOS, medications, readmission status
 
 ## Methodology
 Data Cleaning
